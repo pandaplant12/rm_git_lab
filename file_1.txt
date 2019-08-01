@@ -2,3 +2,6 @@ Favorite food; salmon
 Favorite movie; surfs up
 Favorite person; mom
 Favorite mouse; none
+Favorite season; summer
+Favorite sport; football
+Favorite city; Detroit
